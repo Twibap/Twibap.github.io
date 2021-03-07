@@ -1,5 +1,6 @@
 # twibap.github.io
-Hello! github! 
+
+Hello! github!
 깃 허브 블로그 만드는데 성공했습니다. 하하하하
 이것 참 별거 아닌데 왜 그 동안 미루고 있었는지 모르겠군요.
 
@@ -12,8 +13,12 @@ Hello! github!
 감사합니다!
 
 ## Post
+
 - [twibap.github.io 만들기](/docs/create_github_blog.md)
 
 ## 로컬 개발 환경
+
 을 찾고있습니다.
 서드파티 툴 없이 수정안을 확인하려면 master branch에 push하는 방법 밖에는 모르겠습니다. Jekyll 외에도 뭔가 방법이 있을것 같은데 한번 찾아보죠!
+
+하지만 졌습니다. github 공식 지원 툴이었군요! Jekyll을 활용해 twibap.github.io를 적극적으로 발전시켜 보겠습니다.! 화이팅!!
