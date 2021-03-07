@@ -12,4 +12,4 @@ Hello! github!
 감사합니다!
 
 ## Post
-- [twibap.github.io 만들기](/docs/github\ 블로그만들기)
+- [twibap.github.io 만들기](/docs/github블로그만들기)
