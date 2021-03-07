@@ -13,3 +13,7 @@ Hello! github!
 
 ## Post
 - [twibap.github.io 만들기](/docs/create_github_blog.md)
+
+## 로컬 개발 환경
+을 찾고있습니다.
+서드파티 툴 없이 수정안을 확인하려면 master branch에 push하는 방법 밖에는 모르겠습니다. Jekyll 외에도 뭔가 방법이 있을것 같은데 한번 찾아보죠!
