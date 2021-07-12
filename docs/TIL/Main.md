@@ -10,4 +10,4 @@ Today I Learned
 POST
 ----
 ### 2021-07-12
- * [NoClassDefFoundError](/NoClassDefFoundError.md)
+ * [NoClassDefFoundError](./NoClassDefFoundError.md)
