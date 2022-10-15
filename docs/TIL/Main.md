@@ -9,5 +9,6 @@ Today I Learned
 
 POST
 ----
-### 2021-07-12
+
  * [NoClassDefFoundError](./NoClassDefFoundError.md)
+ * [Java와 Kotlin에서 stream 문법의 차이점](./ThereIsNoStreamInKotlin.md)
